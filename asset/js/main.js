@@ -172,6 +172,7 @@ start.addEventListener('click', function(){
     }, 1000);
 });
 
+
 fine.addEventListener('click', function(){
 
     clearInterval(intervallo);
